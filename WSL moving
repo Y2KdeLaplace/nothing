@@ -16,6 +16,7 @@ By default Ubuntu will use root as the default user, to switch back to previous 
 Go to the Ubuntu App Folder run command to set default user
 
 cd %userprofile%\AppData\Local\Microsoft\WindowsApps
-ubuntu config --default-user <username>
+ubuntu2004 config --default-user <username>
+e.g. ubuntu2004 config --default-user Y2KdeLaplace
 
 https://superuser.com/questions/1550622/move-wsl2-file-system-to-another-drive
