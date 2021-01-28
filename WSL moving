@@ -1,0 +1,21 @@
+If you want to move WSL2 Linux distro(Ubuntu) from C: drive D: below are the steps.
+
+Export Ubuntu
+
+mkdir D:\backup
+wsl --export Ubuntu D:\backup\ubuntu.tar
+Unregister the same distribution to remove it from the C: drive:
+
+wsl --unregister Ubuntu
+Import Ubuntu
+
+mkdir D:\wsl
+wsl --import Ubuntu D:\wsl\ D:\backup\ubuntu.tar
+By default Ubuntu will use root as the default user, to switch back to previous user
+
+Go to the Ubuntu App Folder run command to set default user
+
+cd %userprofile%\AppData\Local\Microsoft\WindowsApps
+ubuntu config --default-user <username>
+
+https://superuser.com/questions/1550622/move-wsl2-file-system-to-another-drive
