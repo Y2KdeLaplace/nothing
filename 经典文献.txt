@@ -1,0 +1,203 @@
+科学在20世纪的发展有两条线索，一条是以物理科学为代表的，如相对论、量子力学以及后来的混沌。物理学在20世纪是科学的样本，可以看看波普尔、卡尔纳普、库恩、查尔默斯等均以物理学为样本建立起自己的科学哲学理论。而另一条则是以包括认知科学在内的“意向性科学”（intentional sciences）为代表的。所谓意向性科学指的是涉及到符号、指称和解释如逻辑、认知科学、神经科学、部分生物学以及计算机科学等。20世纪是个伟大的世纪，以物理学为代表的科学取得了前所未有的成就，在探索宇观和微观世界过程中，物理学将人类理解的水平提高到一个崭新境界。现在看来，物理学关于“极大”和“极小”这两个世界的知识再过100年，人类恐怕也永不完。与此同时，介于这两个极端的宏观世界以及人类自身却遗留下了大量的尚未解决的问题。科学研究需要进行“回采”，解决我们实际面临的种种问题。在新的世纪中，科学研究的背景将逐渐转换到这个新的层面进行作业，也就是说，以“意向性科学”为线索的探究路线将成为科学研究的主要进路。
+
+明尼苏达大学认知科学中心于1999年举办了一次《千年项目》（Millieum Project）活动，目的是评选20世纪认知科学中的100部优秀作品。活动开始到1999年12月1日为止，在下面网站上共收到305部学术著作和一部电影的提名。实际上，这类评选活动在一些重要的时间关口总是层出不穷。说有多么权威似乎谈不上。但同时我们也不能将此类活动完全视为炒作。尤其是关系到某个学科的评比，尽管会有照应不周全之处，但总还是会有一定道理的。
+
+《千年项目》组由以下专家组成，Apostolos Georgopoulos (神经科学)；Jeanette Gundel (通信紊乱)；Paul Johnson (卡尔松学院)；Dan Kersten (心理学)；Chuck Nelson (儿童发育)；Bruce Overmier (心理学)；Herb Pick (儿童发育)；Wade Savage (哲学)；Patty Costello (研究生院代表, 认知科学中心)。以下便是该项目组从305部作品中评选出的100部作品。排在第一位的是影响最大的。
+
+20世纪100部最据影响的认知科学作品：
+
+1、《句法结构》（Syntactic Structures），作者：乔姆斯基（N. Chomsky），The Hague: Mouton）(1957)；
+
+2、《视觉：人类视信息的表征和处理的计算探究》（Vision: A Computational Investigation into the Human Representation and Processing of Visual Information）,作者：马尔（D. Marr）,San Francisco: W. H. Freeman（1982）；
+
+3、《计算机和智能》（Computing machinery and intelligence），作者：图灵（A. M. Turing），Mind, 59, 433-460（1950）；
+
+4、《行为的组织：一种神经心理学的理论》（The Organization of Behavior; a Neuropsychological Theory），作者：赫布（D.O. Hebb）,Wiley-Interscience, New York (1949)；
+
+5、《并行分布式处理：认知微结构的探究》（Parallel Distributed Processing: Explorations in the Microstructure of Cognition），作者：鲁梅尔哈特和麦克科莱兰（D. E. Rumelhart and J. L. McClelland）, MIT Press: Cambrige, Mass （1986）；
+
+6、《人类如何解决问题》（Human Problem Solving）,作者： 纽瓦尔和司马贺（A. Newell, H. A. Simon）, Englewood Cliffs, NJ: Prentice-Hall（1972）；
+
+7、《心的模块性：官能心理学》（The Modularity of Mind: An Essay on Faculty Psychology），作者：福多（J.Fodor），Cambridge, MA: MIT Press （1983）；
+
+8、《记忆：实验与社会心理学研究》（Remembering: A Study in Experimental and Social Psychology），作者：巴特利特（F. C. Bartlett）Cambridge, England: The University Press （1932）；
+
+9、《神奇的数字7，＋或－2：我们信息处理能力的某些极限》（The magical number seven, plus or minus two: Some limits on our capacity for processing information）,作者：米勒（G. A. Miller）, Psychological Review, 63, 81-97（1956）；
+
+10、《知觉与通信》（Perception and Communication）,作者：布罗德本特（D. Broadbent）, New York: Pergamon Press（1958）；
+
+11、《作为知觉系统的感觉》（The Senses Considered as Perceptual Systems），作者：吉布森（J. J. Gibson），Boston, MA: Hougton Mifflin （1966） ;
+
+12、《数学的通信理论》（A mathematical theory of communication）,作者：香农（C. E. Shannon），Bell System Technical Journal, 27, 379-423 （1948） ；
+
+13、《论可计算数》（On computable numbers: With an application to the Entscheidungsproblem）,作者：图灵（A.M. Turing），Proceedings of the London Mathematical Society, ser. 2, 42 （1936）；
+
+14、《内在于神经活动中的思想逻辑计算》（A logical calculus of the ideas immanent in nervous activity）,作者：麦克卡洛克和匹兹（S. W. McCulloch & W. Pitts），Mathematical Biophysics, 5:115-133 pp. 18-27 （1943）；
+
+15、《意识清醒状态下大脑半球的断裂与整合》（Hemisphere deconnnection and unity in conscious awareness），作者：斯佩里（R. W. Sperry）,American Psychologist 23 (10), 723-733（1968）；
+
+16、《鼠与人的认知映射》（Cognitive maps in rats and men），作者：图尔曼（E.C. Tolman），Psychological Review 55, 189-208 （1948）；
+
+17、《费里尔讲座：猕猴视皮层功能架构》（Ferrier lecture: Functional architecture of macaque monkey visual cortex）,作者：胡伯尔和威泽尔（D. H. Hubel & T. N. Wiesel），Proceedings of the Royal Society of London B, 198, 1-59 （1977）；
+
+18、《心理学的概念框架》（The Conceptual Framework of Psychology），作者：布伦斯维克（E. Brunswik），Chicago: University of Chicago Press (1952）；
+
+19、《斯金纳<言语行为>述评》（A review of Skinner's "Verbal Behavior"）,作者：乔姆斯基（N. Chomsky），Language, 35, 26-58 （1959）；
+
+20、《认知心理学》(Cognitive Psychology),作者：尼斯尔（U.Neisser），Cognitive Psychology. Englewood Cliffs, N.J.:Prentice-Hall（1967）；
+
+21、《信号检测理论与心理物理学》（Signal Detection Theory and Psychophysics）,作者：格林和斯韦特斯（D.M. Green and J.A. Swets），New York: Wiley （1966）；
+
+22、《思的研究》（A Study of Thinking）,作者：格林、斯韦特斯和奥斯汀（J. R. Bruner, J. J. Goodnow & G. A. Austin），New York: Wiley （1956）；
+
+23、《三维物体的心内旋转》（Mental rotation of three-dimensional objects）,作者：谢泼德和梅兹勒（R.N. Shepard and J.Metzler）Science, 171, 701-703 （1971）；
+
+24、《人工物的科学》（The Sciences of the Artificial）,作者：司马贺（H. A. Simon），MIT Press（1969）；
+
+25、《行为中的顺次问题》（The problem of serial order in behavior）,作者：拉什利（K. S. Lashley）,in Cerebral Mechanisms in Behavior, Wiley, pp. 112-136 （1951）；
+
+26、《心理物理学导论：知觉、神经和社会展望》（Psychophysics: Introduction to its Perceptual, Neural, and Social Prospects），作者：史蒂文斯（S. S. Stevens）New York, NY: John Wiley and Sons. （1975）, v, 329；
+
+27、《认知的构架》（The Architecture of Cognition），作者：安德森（J.R. Anderson），Cambridge, MA: Harvard University Press （1983）；
+
+28、《思想和语言》（Thought and Language (Myshlenie i rech'.)），作者：维哥托夫斯基（Lev Vygotsky），(E.Hanfmann and G. Vakar, Trans.). Cambridge, M.I.T Press，(1964 (original work 1934))；
+
+29、《行为的计划和结构》(Plans and the Structure of Behavior),作者：米勒、加兰特和普里伯拉姆（G.A.Miller E. Galanter and K.H. Pribram），New York, Holt, Rinehart and Winston, Inc.(1960)；
+
+30、《句法理论诸方面》(Aspects of the Theory of Syntax)，作者：乔姆斯基（N. Chomsky），Cambridge, MA: MIT Press (1965)；
+
+31、《认知统一论》（Unified Theories of Cognition），作者：纽瓦尔（A. Newell），Cambridge, MA: Harvard University Press (1990)；
+
+32、《控制论(或关于在动物和机器中控制和通信的科学)》（Cybernetics, or Control and Communication in the Animal and the Machine），作者：维纳（N. Wiener），New York: Wiley (1948)；
+
+33、《论预测心理学》(On the psychology of prediction),作者：卡内曼和特韦斯基（D. Kahneman & A. Tversky），Psychological Review, 80, 237-251 (1973)；
+
+34、《单个的单元和感觉：知觉心理学的神经元原理》(Single units and sensation: A neuron doctrine for perceptual psychology)，作者：巴罗（H. Barlow），Perception, 1, 371-394 (1972)；
+
+35、《知觉学习和发育原理》(Principles of Perceptual Learning and Development)，作者：吉布森（E.J. Gibson），Appleton, Century and Croft (1969)；
+
+36、《视知觉的生态学方法》(The Ecological Approach to Visual Perception),作者：吉布森（J. J. Gibson），(1979)；
+
+37、《自然的范畴》(Natural Categories),作者：罗施（E. Rosch）Cognitive Psychology, 7,573-605 (1973)；
+
+38、《蛙眼告诉蛙脑什么》(What the frog's eye tells the frog's brain),作者：勒特文等（J.Y. Lettvin, H.R. Maturana, W.S. McCulloch & W.H. Pitts），Proceedings of the IRE, Vol. 47, No. 11, pp. 1940-51 (1959)；
+
+39、《为了脑的设计：适应行为的起源》(Design for a Brain: The Origins of Adaptive Behavior),作者：罗斯（Ashby, W. Ross），New York: Willey (1960)；
+
+40、《博弈论和经济行为》(Theory of Games and Economic Behavior)，作者：冯诺依曼和摩根斯坦（J. Von Neumann & O.Morgenstern），([3d ] ed.). New York,: Science Editions J. Wiley.（1964）；
+
+41、《简洁视觉表征中的信息》（The Information Available in Brief Visual Presentations），作者：斯伯林（G. Sperling），Psychological Monographs, 74 (Whole number 498) (1960)；
+
+42、《心、脑和程序》(Minds, brains and programs),作者：塞尔（J.R. Searle），The Behavioral and Brain Sciences, 3.(1980)；
+
+43、《人类记忆的高速记忆扫描》（High-speed memory scanning in human memory），作者：斯坦恩博格（S. Sternberg），Science, 153, 652-654 (1966)；
+
+44、《表征知识的框架》(A framework for representing knowledge)，作者：明斯基（M. Minsky），in P. H. Winston (Ed.), The Psychology of Computer Vision. New York: McGraw-Hill, pp. 211-277 (1975)；
+
+45、《语言的生物学基础》（Biological Foundations of Language）,作者：伦纳博格（E. H. Lenneberg），New York: Wiley (1967)；
+
+46、《儿童对世界的把握》(The Child's Conception of the World),作者：皮亚杰（J. Piaget），New York: Harcourt, Brace, and World (1930)；
+
+47、《处理的水平：记忆研究纲要》（Levels of processing: A framework for memory research），作者：克雷克和洛克哈德（F.I. Craik and R. S. Lockhart),Journal of Verbal Learning and Verbal Behavior, 12, 599-607 (1972) ；
+
+48、《顺序言语反映研究》(Studies of interference in serial verbal reactions),作者：斯特罗普（J. Stroop），Journal of Experimental Psychology, 18, 643-661 (1935)；
+
+49、《自复制自动机理论》(Theory of Self-reproducing Automata),作者：冯诺依曼和伯克斯（J. Von Neumann & A. W. Burks），Urbana,: University of Illinois Press (1966)；
+
+50、《视觉世界的知觉》(The Perception of the Visual World)，作者：吉布森（J. J. Gibson），Westport, Conn.: Greenwood Press (1950)；
+
+51、《格式塔心理学原理》(Principles of Gestalt Psychology),作者：考夫卡（K. Koffka,），New York: Harcourt, Brace and Co.(1935)；
+
+52、《论人类视觉系统神经元的存在》（On the existence of neurones in the human visual system selectively sensitive to the orientation and size of retinal images），作者：布莱克莫尔和坎贝尔（C. Blakemore & F.W. Campbell），Journal of Physiology, 203, 203-260 (1969)；
+
+53、《通过组分的认知：人类图像理解的理论》(Recognition-by-components: a theory of human image understanding),作者：比德曼（I. Biederman），Psychological Review, 94, 115-147 (1987)；
+
+54、《哲学研究》（Philosophical Investigations），作者：维特根斯坦（Ludwig Wittgenstein），New York: Macmillan (1953)；
+
+55、《注意力的特征整合理论》(A feature integration theory of attention)，作者：特莱斯曼和格莱德（A. Treisman and G. Gelade）Cognitive Psychology, 12, 97-136 (1980) ；
+
+56、《工作的大脑：神经心理学导论》(The Working Brain: An Introduction to Neuropsychology),作者：卢里亚（A. R. Luria）New York: Basic Books (1973);
+
+57、《独眼人的知觉基础》(Foundations of Cyclopean Perception),作者：朱利兹（B. Julesz），Chicago, IL: The University of Chicago Press (1971)；
+
+58、《儿童的实在构造》(The Construction of Reality in the Child),作者：皮亚杰(J. Piaget), NY: Ballantine Books(1954)；
+
+59、《思想的语言》(The Language of Thought),作者：福多（J. A. Fodor），New York: Crowell (1975)；
+
+60、《偶发记忆中的编码特异性和处理过程》(Encoding specificity and retrieval processes in episodic memory)，作者：塔尔英和汤姆生（E. Tulving and D.Thompson），Psychological Review, 80, 352-373(1973)；
+
+61、《学习定式的形成》（The formation of learning sets），作者：哈罗（H. F. Harlow），Psychological Review, 1949, 56, 51-65 (1949)；
+
+62、《心的模型：走向语言、推理和意识的认知科学》（Mental models: Towards a Cognitive Science of Language, Inference, and Consciousness），作者：约翰逊－拉尔德（P. M. Johnson-Laird），Cambridge MA: Harvard University Press（1983）；
+
+63、《计算机不能做什么》（What Computers Can't Do），作者：德赖福斯（H. L. Dreyfus），MIT Press（1972）： 64、《科学革命的结构》（The Structure of Scientific Revolutions），作者：库恩（T. S. Kuhn），Chicago: University of Chicago Press（1962）；
+
+65、《裂脑》（The Bisected Brain），作者：伽扎尼加（M. Gazzaniga），(1970)
+
+66、《意向性立场》（The Intentional Stance），作者：丹内特（D. C. Dennett），MIT Press（1987）；
+
+67、《猴脑后颅顶联想皮层：外人格空间内的运算指令功能》（Posterior parietal association cortex of the monkey: command functions for operations within extrapersonal space），作者：蒙特卡斯特尔等（V.B. Mountcastle, J.C. Lynch, A .Georgopoulos, H. Sakata, C.Acuna）；J Neurophysiol 38:871-908（1975）；
+
+68、《不确定性之下的判断：启发和偏见》（Judgments under uncertainty: Heuristics and biases）；作者：特韦斯基和卡纳曼（A. Tversky & D. Kahneman），Science, 185, 1124-1131（1974）；
+
+69、《接近度的分析：带未知距离函数的多维梯度》（The analysis of proximities: Multidimensional scaling with an unknown distance function），作者：谢泼德（R. N. Shepard），Psychometrika, 27(2), 125-140（1962）；
+
+70、《傅立叶分析在格栅可见度中的应用》（Application of Fourier analysis to the visibility of gratings），作者：坎贝尔和罗伯逊（F.W. Campbell and J.G. Robson），Journal of Physiology. 197: 551-566（1968）；
+
+71、《记忆》（Working memory），作者：巴德雷和希齐（A.D. Baddeley and A.D. Hitch），in G. Bower (Ed.), The psychology of learning and motivation, Vol. 8; pp 47-89). New York: Academic Press（1974）；
+
+72、《语言、思想和实在选集》（Language, Thought and Reality; Selected Writings），作者：沃尔夫（B. L. Whorf），（ed. by J. Carroll），Boston, MA: MIT Press （1956）；
+
+73、《二个皮层视觉系统》（Two cortical visual systems），作者：恩格尔莱德和米什金（L.G. Ungerleider and M. Mishkin），in D.J. Ingle, M.A. Goodale, and R.J.W. Mansfield (Eds.), Analysis of visual behavior. Cambridge, MA: MIT Press （1982)）；
+
+74、《知觉元》（Perceptrons），作者：明斯基和帕泊特（M. Minsky & S. Papert），Cambridge: MIT Press（1969）；
+
+75、《感觉机制、冗余度减少和智能》（Sensory mechanisms, the reduction of redundancy, and intelligence），作者：巴罗（H. B. Barlow），Proceedings of the symposium on the mechanization of thought processes. National Physical Laboratory. HMSO, London（1959）；
+
+76、《双测海马突起损伤后的最近记忆丧失》（Loss of recent memory after bilateral hippocampal lesions），作者：斯科维尔和米尔纳（W. B. Scoville and B. Milner），Journal of Neurology, Neurosurgery, and Psychiatry, 20（1957）；
+
+77、《记忆》（Working Memory），作者：巴德雷（A. Baddeley），Oxford University Press（1986）；
+
+78、《脚本、计划、目标和理解》（Scripts, Plans, Goals, and Understanding），作者：珊科和阿贝尔森（R. C. Schank and R. P. Abelson）Hillsdale, NJ: Erlbaum（1977）；
+
+79、《心的测时探究》（Chronometric Explorations of Mind），作者：波斯纳（M. I. Posner），Hillsdale, N.J.: Lawerence Erlbaum Associates（1978）；
+
+80、《形式、颜色、运动和深度的分异：解剖学、生理学和知觉》（Segregation of form, color, movement and depth: Anatomy, physiology and perception），作者：利文斯顿和胡伯尔（M. Livingstone & D. Hubel），Science, 240(4853):740-9 （1988）；
+
+81、《生物学运动的视知觉及其分析模型》（Visual Perception of biological motion and a model for its analysis），作者：约翰森（G. Johansson），Perception & Psychophysics, Vol. 14 (2); 201-211（1973）；
+
+82、《梦的解析》（The Interpretation of Dreams），作者：弗洛伊德（S. Freud），(1st English Edition) London: George Allen and Unwin Ltd.（1927）；
+
+83、《解释的性质》（The Nature of Explanation），作者：克里克（K. Craik），Cambridge, England: Cambridge University Press（1943）；
+
+84、《运动的协调》The Coordination and Regulation of Movements，作者：伯恩斯坦（N.A.Bernstein），Oxford, New York: Pergamon Press（1967）；
+
+85、《神经系统的整合行动》（The Integrative Action of the Nervous System），作者：谢林顿（Sir Charles S. Sherrington），New York: Scribner's Sons（1906）；
+
+86、《走向文本理解和生产的模型》（Toward a model of text comprehension and production），作者：金驰和范德迪克（W. Kintsch and T. A. van Dijk），Psychological Review, 85, 363-394（1978）；
+
+87、《神经达尔文主义：神经元组选择理论》（Neural Darwinism: The Theory of Neuronal Group Selection），作者：埃德尔曼（G. M. Edelman），New York: Basic Books（1987）；
+
+88、《光和视网膜的理论》（Lightness and retinex theory），作者：兰德和麦克凯恩（E. H. Land and J. J. McCann），Journal of the Optical Society of America, 61 (1), 1-11（1971）； 89、《作为认知映射的海马状突起》（The Hippocampus as a Cognitive Map），作者：奥基弗和内达尔（J. O'Keefe and L. Nadel），Behavioral and Brain Sciences, vol 2(4)（1979）；
+
+90、《猿的智力》（The Mentality of Apes），作者：科勒（W. Koehler），New York: Harcourt and Brace（1925）；
+
+91、《猿和儿童的语言理解》（Language comprehension in ape and child），作者：萨维奇－伦堡（E. Sue Savage-Rumbaugh），Monographs of the Society for Research in Child Development (serial no.233), vol 58, nos. 3-4 （1993）；
+
+92、《灵长类前叶皮层回路和通过表征性记忆对行为的调节》（Circuitry of primate prefrontal cortex and the regulation of behavior by representational memory），作者：哥德曼－拉齐克（P.S. Goldman-Rakic），Handbook of Physiology, vol5(1), American Physiological Society, Bethesda, MD: 373-417（1987）；
+
+93、《婴儿的话语知觉》（Speech perception in infants），作者：埃玛斯等（P.D. Eimas E.R. Siqueland, P. Jusczyk, & J. Vigorito），Science Vol 171 (3968), 303-306（1971）；
+
+94、《心理学术语的运筹学分析》（The Operational analysis of psychological terms），作者：斯金纳（B. F. Skinner），Psychological Review, 52, 270-277（1945）；
+
+95、《神经元群落向量的思维旋转》（Mental rotation of the neuronal population vector），作者：乔治泊罗斯等（Georgopoulos, Apostolos P., Lurito, Joseph T., Petrides, Michael., Schwartz, Andrew B., et al.），Science. Vol 243(4888), Jan 1989, 234-236（1989）；
+
+96、《意识的解释》（Consciousness Explained），作者：丹内特（D. C. Dennett），Boston, MA: Little, Brown and Co.（1991）；
+
+97、《来自运动结构的解释》（The interpretation of structure from motion），作者：乌尔曼（S. Ullman），Proceedings of the Royal Society of London B., 203, 405-426（1979）；
+
+98、《荒野的认知》（Cognition in the Wild），作者：希金斯（E. Hutchins），Cambridge, Mass: MIT Press（1995）；
+
+99、《认知技巧的获得》（Acquisition of cognitive skill），作者：安德森（J. R. Anderson），Psychological Review, 89, 369-406（1982）；
+
+100、《人类的记忆：一种提议的体系及其控制过程》（Human memory: A proposed system and its control processes），作者：阿特金森和席夫林（R.C. Atkinson and R. M. Shiffrin），in K. W. Spence and J. T. Spence (Eds.), The Psychology of learning and motivation: Advances in research and theory (vol. 2). New York: Academic Press.（1968）。
